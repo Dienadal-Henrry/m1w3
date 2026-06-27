@@ -21,11 +21,11 @@ h1{
  nav{
     padding:100px;
     background-color:hsl(202, 25%, 43%);
-    font-size:30px
+    font-size:30px;
  }
  body{
    background-color: aquamarine;
-   font-style: oblique
+   font-style: oblique;
    
  }
 .text {
@@ -38,8 +38,8 @@ h2{
       background-color: rgb(123, 112, 143);
 }
 p{
-   font-style: oblique
-       font-size:200px
+   font-style: oblique;
+       font-size:200px;
        margin: 10px;
 }
 
